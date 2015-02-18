@@ -1,3 +1,4 @@
+## Matthieu Harbich & Romain Cerantola
 # Smart City - Citizen Engagement - Spring Boot Skeleton
 
 ## Introduction
